@@ -1,4 +1,4 @@
-# CelebratiyFaceClassifier
+# CelebrityFaceClassifier
 This project aims to predict the name of the celebrity by the image. It is a classic classification project which has five different class to predict. Nowadays “Neural Networks” are dominant in the Image processing domain but the main idea behind this project is to show that with the help of simple classification model such as SVM and Logistic Regression, we can get good accuracy for the Image classification problems. First, I divided the project into three parts.\
 1> Data Collection\
 2> Data Cleaning and Model Building\
