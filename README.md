@@ -13,3 +13,4 @@ For the data cleaning in the second part I manually deleted some of the images i
 | Logistic Regression | 0.81 |
 
 For the third part, I created a pickle file and with the help of python Flask I build my local server to run my local website and deployed the model on the website to predict the class of new images. The UI of the model running on a local website is shown as below. 
+![](home.jpg/)
